@@ -57,11 +57,9 @@ def buildblock(size):
 		out_str += chr(a)
 	return(out_str)
 
-def usage():
-	print '---------------------------------------------------'
+def usage()
 	print 'USAGE: python hulk.py <url>'
-	print 'you can add "safe" after url, to autoshut after dos'
-	print '---------------------------------------------------'
+	print 'you can add "safe" after url, to autoshut after dos''
 
 	
 #http request
